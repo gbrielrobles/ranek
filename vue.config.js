@@ -1,3 +1,3 @@
-module.exports = {
-  transpileDependencies: true
-}
+// module.exports = {
+//   publicPath: "/vue"
+// };
